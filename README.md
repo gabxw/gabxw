@@ -20,7 +20,7 @@ I engineer intuitive solutions that tackle real-world challenges.
   
     
 <div style="display: inline_block"><br>
-  <a href="https://github.com/leonardomoraisf">
+  <a href="https://github.com/gabxw">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
