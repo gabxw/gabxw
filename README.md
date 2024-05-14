@@ -25,15 +25,12 @@ Want to get in touch? Find me on:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/gabxw/gabxw/github-contribution-grid-snake.svg" />
 
-### Skills
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
 ### About Me
 
 I'm currently learning and exploring the world of logic programming with VisualG. I'm excited to share my projects and achievements with you. Stay tuned for updates!
   
-    
+### Skills
+  
 <div style="display: inline_block"><br>
   <a href="https://github.com/gabxw">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
