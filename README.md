@@ -25,7 +25,7 @@ Want to get in touch? Find me on:
 
 ### About Me
 
-I'm currently learning and exploring the world of logic programming with VisualG. I'm excited to share my projects and achievements with you. Stay tuned for updates!
+I'm currently learning and exploring the world of programming. I'm excited to share my projects and achievements with you. Stay tuned for updates!
   
 ### Skills
   
