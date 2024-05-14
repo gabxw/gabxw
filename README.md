@@ -1,8 +1,8 @@
-## Olá pessoal 👋
+## hello world! 👋
 
 I'm Gabriel, a programming enthusiast with a passion for tecnology. This profile showcases my activities, projects, and achievements in the field of logic programming.
 
-### Contatos
+### contacts
 
 Want to get in touch? Find me on:
 
@@ -23,7 +23,7 @@ Want to get in touch? Find me on:
 
 ### Snake Animation
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/gabxw/gabxw/github-contribution-grid-snake.svg" />
+<img loading="lazy" src="https://github.com/gabxw/gabxw/blob/output/github-contribution-grid-snake.svg" />
 
 ### About Me
 
