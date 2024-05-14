@@ -1,22 +1,37 @@
-### <div>
-<a href="https://www.linkedin.com/in/gabriel-maciel-625980268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:gabriel.jmaciel13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/gabsxwho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-<div> 
- 
-### Elegance in algorithms, grace in execution – where code becomes art..
-I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in PHP by building web apps with MVC structure, that aren't just beautiful, but are enjoyable to use and really problem-solvers. 
+## Olá pessoal 👋
 
-Always writing not just scalable softwares, but also the readable code that will make the scalability possible.
+I'm Gabriel, a programming enthusiast with a passion for tecnology. This profile showcases my activities, projects, and achievements in the field of logic programming.
 
-A clean and understandable code, as a good poem should be.
+### Contatos
 
-Crafting innovative concepts into functional solutions, I leverage the power of JavaScript to build web applications with a harmonious blend of creativity and technical prowess.
+Want to get in touch? Find me on:
 
-Employing modern frameworks and a keen eye for user experience, I don't just code beautiful interfaces;
+<a target="_blank" href="https://www.linkedin.com/in/gabriel-maciel-625980268/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=31 98461-9428">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 
-I engineer intuitive solutions that tackle real-world challenges.
+### GitHub Stats
+
+<div>
+<a href="https://github.com/gabxw">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabxw&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabxw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+### Snake Animation
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/gabxw/gabxw/github-contribution-grid-snake.svg" />
+
+### Skills
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+### About Me
+
+I'm currently learning and exploring the world of logic programming with VisualG. I'm excited to share my projects and achievements with you. Stay tuned for updates!
   
     
 <div style="display: inline_block"><br>
