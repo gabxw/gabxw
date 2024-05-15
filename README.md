@@ -13,6 +13,8 @@ Want to get in touch? Find me on:
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a> </br>
 
+![snake gif](https://github.com/gabxw/gabxw/blob/output/github-contribution-grid-snake.gif)
+
 ### GitHub Stats
 
 <div>
