@@ -1,3 +1,5 @@
+![snake gif](https://github.com/gabxw/gabxw/blob/output/github-contribution-grid-snake.gif)
+
 ## hello world! 👋
 
 I'm Gabriel, a programming enthusiast with a passion for tecnology. This profile showcases my activities, projects, and achievements in the field of logic programming.
@@ -13,7 +15,7 @@ Want to get in touch? Find me on:
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a> </br>
 
-![snake gif](https://github.com/gabxw/gabxw/blob/output/github-contribution-grid-snake.gif)
+
 
 ### GitHub Stats
 
