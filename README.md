@@ -1,5 +1,3 @@
-![snake gif](https://github.com/gabxw/gabxw/blob/output/github-contribution-grid-snake.gif)
-
 ## hello world! 👋
 
 I'm Gabriel, a programming enthusiast with a passion for tecnology. This profile showcases my activities, projects, and achievements in the field of logic programming.
