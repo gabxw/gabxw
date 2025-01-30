@@ -1,43 +1,28 @@
-## hello world! 👋
+## 🚀 Sobre mim  
+💻 Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.  
+📚 Atualmente estudando **Engenharia de Software** e aprimorando minhas habilidades em diversas tecnologias.    
+🔹 Sempre explorando novas linguagens e frameworks!  
 
-I'm Gabriel, a programming enthusiast with a passion for tecnology. This profile showcases my activities, projects, and achievements in the field of logic programming.
+---
 
-### contacts
+### 🛠 Tecnologias & Ferramentas  
 
-Want to get in touch? Find me on:
-
-<a target="_blank" href="https://www.linkedin.com/in/gabriel-maciel-625980268/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=(31) 98461-9428">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a> </br>
-
-
-
-### GitHub Stats
-
-<div>
-<a href="https://github.com/gabxw">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabxw&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabxw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
-
-### About Me
-
-I'm currently learning and exploring the world of programming. I'm excited to share my projects and achievements with you. Stay tuned for updates!
-  
-### Skills
-  
 <div style="display: inline_block"><br>
   <a href="https://github.com/gabxw">
-  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabs-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Gabs-C#P" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cs/cs-original.svg">
-</div>
- 
-</div>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>  
+
+---
+
+### 📈 GitHub Stats  
+📊 *Criando e contribuindo para projetos que fortalecem minhas habilidades.*  
+
+🔗 **Confira meus repositórios:** [github.com/gabxw](https://github.com/gabxw)  
+
+Se precisar de algo, me chame! 😃🚀
