@@ -27,18 +27,7 @@
   <img alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-#
 
-<div style="text-align: center;" align="center">
-  <h3 align="center">📈 GitHub Stats </h3>
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabxw&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=1E1E2E&title_color=1E90FF&text_color=FFFFFF&border_radius=3&border_color=374151&icon_color=1E90FF&theme=jolly" alt="GitHub stats">
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabxw&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=1E90FF&hide=html,scss,less&bg_color=1E1E2E&text_color=8B8B8B&border_radius=3&border_color=374151" alt="Most Used Languages">
-</div>
-
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabxw/gabxw/output/github-contribution-grid-snake-dark.svg">
