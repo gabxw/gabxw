@@ -39,8 +39,8 @@
 
 
 #
-📊 *Criando e contribuindo para projetos que fortalecem minhas habilidades.*  
+ *Criando e contribuindo para projetos que fortalecem minhas habilidades.*  
 
-🔗 **Confira meus repositórios:** [github.com/gabxw](https://github.com/gabxw)  
+ **Confira meus repositórios:** [github.com/gabxw](https://github.com/gabxw)  
 
-Se precisar de algo, me chame! 😃🚀
+Se precisar de algo, me chame! 
