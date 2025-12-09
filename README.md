@@ -1,7 +1,7 @@
-## 🚀 Sobre mim  
-💻 Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.  
-📚 Atualmente estudando **Engenharia de Software** e aprimorando minhas habilidades em diversas tecnologias.  
-🔹 Sempre explorando novas linguagens e frameworks!  
+##  Sobre mim  
+ Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.  
+ Atualmente estudando **Engenharia de Software** e aprimorando minhas habilidades em diversas tecnologias.  
+ Sempre explorando novas linguagens e frameworks!  
 
 #
 
@@ -20,7 +20,7 @@
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
