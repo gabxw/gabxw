@@ -1,122 +1,139 @@
-<h1 align="center">Opa, eu sou o Gabriel Maciel</h1>
+<h1 align="center">Gabriel Maciel</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Laravel, React & TypeScript | SaaS, automações e integrações WhatsApp</strong>
+  <strong>Software Engineer | Backend, automações e integrações</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:gabriel.jmaciel13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-maciel-625980268">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/gabsxwho/">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram">
-  </a>
-
+  Laravel • C# • Python • PostgreSQL
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FF00F6&center=true&vCenter=true&width=900&lines=Construindo+produtos+SaaS+com+clientes+reais;Laravel%2C+React%2C+TypeScript+e+Supabase;Automa%C3%A7%C3%B5es+com+Python+e+Playwright;Foco+em+produto%2C+neg%C3%B3cio+e+entrega" alt="Typing SVG">
+  <a href="mailto:gabriel.jmaciel13@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/gabriel-maciel-625980268">LinkedIn</a>
 </p>
 
 ---
 
-<img align="right" alt="Estudando programação" height="210px" src="./src/study.gif">
+## Sobre
 
-## Sobre mim
+Sou desenvolvedor de software em Belo Horizonte, com experiência prática na construção de sistemas web, automações, integrações e produtos SaaS.
 
-Sou Desenvolvedor Full Stack e estudante de Engenharia de Software, com foco em criar sistemas web, automações e produtos SaaS que resolvem problemas reais de negócio.
+Atualmente atuo no **Grupo Roma Brasil**, participando da evolução de sistemas internos e da automação de processos corporativos. No dia a dia trabalho com desenvolvimento web, regras de negócio, integrações, banco de dados e automações em Python.
 
-- Trabalho principalmente com **Laravel, PHP, React, TypeScript, Supabase e PostgreSQL**.
-- Crio soluções com **multi-tenancy, integrações via WhatsApp, painéis administrativos, automações e deploy em produção**.
-- Atuo com desenvolvimento web e automação de processos no **Grupo Roma**.
-- Sou fundador e desenvolvedor dos projetos **ZapBebidas** e **AgendeCorte**.
-- Tenho experiência anterior com **suporte técnico, infraestrutura, Zabbix, hardware e atendimento ao cliente**.
+Meu foco profissional está cada vez mais voltado para **backend, arquitetura, integrações e automação**, sem perder a visão de produto e de operação real.
 
-<br clear="right"/>
+---
+
+## O que eu trabalho hoje
+
+- APIs REST e integrações entre sistemas
+- Backend com **Laravel/PHP** e aprofundamento em **C#/.NET**
+- Automações com **Python + Playwright**
+- PostgreSQL e modelagem de dados
+- Sistemas SaaS e arquiteturas multi-tenant
+- Webhooks e integrações com WhatsApp
+- Docker, Git e ambientes Linux
+- Testes, observabilidade e CI/CD como foco de evolução
+
+---
 
 ## Projetos em destaque
 
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| [ZapBebidas](https://zapbebidas.com) | SaaS de cardápio digital e gestão de pedidos para distribuidoras, com painel admin, pedidos em tempo real e integração WhatsApp. | React, TypeScript, Supabase, Tailwind, Evolution API |
-| [AgendeCorte](https://agendecorte.com) | SaaS de agendamento online para barbearias, com arquitetura multi-loja, agenda, painel administrativo e notificações via WhatsApp. | React, TypeScript, Supabase, Tailwind, Vercel |
-| Automações corporativas | Scripts e automações para reduzir processos manuais em rotinas de faturamento e operação. | Python, Playwright, PostgreSQL |
+### GásFácil
+Sistema para operação de distribuidoras com landing page, painel administrativo, backend, catálogo, pedidos e integração com WhatsApp.
 
-## Tech Stack
+**Stack:** Next.js, Node.js, PostgreSQL, APIs e automação de atendimento.
 
-### Back-end
+[Ver repositório](https://github.com/gabxw/gasfacil)
 
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+### ZapBebidas
+SaaS de cardápio digital e gestão de pedidos para distribuidoras, pensado para operação real e múltiplas lojas.
 
-### Front-end
+**Destaques:** multi-tenancy, painel administrativo, pedidos em tempo real, PostgreSQL/Supabase, RLS e integração com WhatsApp.
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=646CFF)
+[Ver produto](https://zapbebidas.com)
 
-### Infra, ferramentas e automação
+### AgendeCorte
+SaaS de agendamento online para barbearias, com gestão de agenda, painel administrativo e notificações via WhatsApp.
 
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=009639)
-![Playwright](https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+**Destaques:** arquitetura multi-loja, experiência responsiva e fluxos de operação voltados para negócios locais.
 
-## O que estou construindo
+[Ver produto](https://agendecorte.com)
 
-- SaaS multi-loja com **shared database + store_id**.
-- Integrações com **WhatsApp via Evolution API**.
-- Painéis administrativos com **React, TypeScript, Tailwind e shadcn/ui**.
-- Back-end com **Laravel, Supabase, PostgreSQL, RLS, RPCs, Edge Functions e Realtime**.
-- Automações com **Python e Playwright** para reduzir tarefas repetitivas.
+---
 
-## GitHub Stats
+## Engenharia que estou aprofundando
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabxw&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00F6&icon_color=FF00F6&text_color=FFFFFF" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabxw&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00F6&text_color=FFFFFF" alt="Top languages">
-</p>
+Atualmente estou direcionando meus estudos e projetos para problemas de backend que aparecem em sistemas reais:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabxw&theme=radical&hide_border=true&background=0D1117&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6" alt="GitHub streak">
-</p>
+- processamento assíncrono e filas
+- RabbitMQ e mensageria
+- Redis e cache distribuído
+- idempotência e retry
+- autenticação e autorização
+- arquitetura orientada a eventos
+- observabilidade com logs, métricas e tracing
+- testes de integração
+- Docker e pipelines de CI/CD
 
-<details>
-  <summary><strong>Mais estatísticas</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=gabxw&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies">
-  </p>
-</details>
+O próximo projeto principal será uma **plataforma de automação inspirada em n8n/Zapier**, construída de forma incremental para explorar esses conceitos em um produto real.
 
-## Contribuições
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabxw/gabxw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabxw/gabxw/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/gabxw/gabxw/output/github-contribution-grid-snake.svg">
-</picture>
+## Stack principal
+
+**Backend**  
+Laravel · PHP · C#/.NET · Python · PostgreSQL
+
+**Frontend**  
+TypeScript · React · Vue · Tailwind CSS
+
+**Infra e ferramentas**  
+Docker · Linux · Git · GitHub · Nginx · Playwright
+
+**Arquitetura e integração**  
+REST APIs · Webhooks · Multi-tenancy · Supabase · RLS · Automação de processos
+
+---
+
+## Experiência
+
+### Grupo Roma Brasil
+**Software Engineer / Desenvolvedor Full Stack**
+
+Desenvolvimento e manutenção de sistemas internos, modernização de aplicações, automações em Python, integrações e melhorias de processos usados em ambiente corporativo.
+
+### SPM Infor
+**Help Desk / Suporte de TI**
+
+Experiência com suporte técnico, infraestrutura, atendimento a usuários e ambientes monitorados.
+
+---
+
+## Formação
+
+- **Engenharia de Software — UFBRA**
+- **Técnico em Desenvolvimento de Sistemas — SENAI CTTI**
+
+---
+
+## O que você vai encontrar neste GitHub
+
+Este perfil reúne projetos de diferentes fases da minha trajetória. Alguns repositórios são exercícios de estudo e outros representam sistemas e produtos mais maduros.
+
+Hoje estou priorizando projetos que demonstrem:
+
+- regras de negócio reais
+- arquitetura e backend
+- integração entre serviços
+- qualidade de código e testes
+- documentação clara
+- evolução incremental do produto
 
 ---
 
 <p align="center">
-  <strong>Construindo produtos, automatizando processos e transformando ideias em sistemas reais.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gabxw?tab=repositories">
-    <img src="https://img.shields.io/badge/Confira_meus_repositórios-000?style=for-the-badge&logo=github&logoColor=FF00F6" alt="Repositórios">
-  </a>
+  <strong>Software útil, arquitetura consciente e soluções que chegam ao uso real.</strong>
 </p>
