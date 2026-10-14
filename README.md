@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=D8B574&center=true&vCenter=true&width=850&lines=Construindo+software+para+uso+real;Backend+%E2%80%A2+Automa%C3%A7%C3%B5es+%E2%80%A2+Integra%C3%A7%C3%B5es;Laravel+%E2%80%A2+C%23%2F.NET+%E2%80%A2+Python+%E2%80%A2+PostgreSQL;Aprendendo+arquitetura%2C+mensageria+e+observabilidade" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=850&lines=Construindo+software+para+uso+real;Backend+%E2%80%A2+Automa%C3%A7%C3%B5es+%E2%80%A2+Integra%C3%A7%C3%B5es;Laravel+%E2%80%A2+C%23%2F.NET+%E2%80%A2+Python+%E2%80%A2+PostgreSQL;Aprendendo+arquitetura%2C+mensageria+e+observabilidade" alt="Typing SVG">
 </p>
 
 <p align="center">
   <a href="mailto:gabriel.jmaciel13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=D8B574" alt="Email">
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=4ADE80" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-maciel-625980268">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=D8B574" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=4ADE80" alt="LinkedIn">
   </a>
 </p>
 
@@ -110,12 +110,12 @@ Meu próximo projeto principal é uma **plataforma de automação inspirada em n
 ## Atividade no GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabxw&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8B574&icon_color=D8B574&text_color=E6EDF3&rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabxw&layout=compact&hide_border=true&bg_color=0D1117&title_color=D8B574&text_color=E6EDF3&langs_count=6" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabxw&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=4ADE80&text_color=E6EDF3&rank_icon=github" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabxw&layout=compact&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=E6EDF3&langs_count=6" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabxw&hide_border=true&background=0D1117&ring=D8B574&fire=D8B574&currStreakLabel=D8B574&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=gabxw&hide_border=true&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak">
 </p>
 
 ---
